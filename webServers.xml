@@ -1,0 +1,48 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1a81718-c08b-4acb-bf62-71dd3225ce14" name="ftp.supportscarly.com" url="http://supportscarly.com">
+        <fileTransfer host="ftp.supportscarly.com" port="21" password="dfd3dfc2dfdbdfc3dffedfdfdf93dfc7dfe2dfe0df99dfe6dfc0dfc0" username="supportscarly">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e255073f-6791-44cd-8dda-1058056f9b23" name="ftp.ipurl.co" url="http://ipurl.co">
+        <fileTransfer host="ftp.ipurl.co" port="21" password="dfebdfecdffedfc5dff2dfc1df8fdf86df93dfd0dfc9df92df9cdfd9dfdedf95dfed" username="ipurl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c51b0ada-5594-4a58-9033-881969c13a42" name=" 123getmorepatients" url="http://ftp.Connecticutelectricx.com">
+        <fileTransfer host="ftp.Connecticutelectricx.com" port="21" password="dfc0dfe8dfffdfc9dfcedf93dfdcdfe2dfd9df9fdfd9dffd" username="123getmorepatients@connecticutelectricx.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="99b28977-f842-4162-8f53-2398875a9317" name="jimmies.nl" url="http://ftp.jimmies.nl">
+        <fileTransfer host="ftp.jimmies.nl" port="21" rootFolder="/public_html" username="test@jimmies.nl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dbe4eac4-47c6-4ab7-9252-c69963afea7c" name="ipurl" url="http://50.56.187.26">
+        <fileTransfer host="50.56.187.26" port="21" username="ipurl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="338ac0e2-c398-4e41-9e62-bab450e21fe5" name="jsasummer.org" url="http://ftp.jsasummer.org">
+        <fileTransfer host="ftp.jsasummer.org" port="21" username="jsasummer">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
