@@ -1,0 +1,16 @@
+<keymap version="1" name="Marty's" parent="Mac OS X 10.5+">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
