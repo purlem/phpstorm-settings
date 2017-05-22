@@ -11,6 +11,12 @@
   </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.UpdateProject" />
 </keymap>
