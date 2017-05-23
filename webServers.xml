@@ -43,6 +43,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="5b64eecf-2185-4ceb-9019-a4f69821d608" name="RecruitU" url="http://recruitu:8888">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
