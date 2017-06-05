@@ -1,4 +1,5 @@
 <keymap version="1" name="Marty's" parent="Mac OS X 10.5+">
+  <action id="BaseOnThisFunction" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -13,9 +14,11 @@
   <action id="Rerun" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="alt h" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -32,6 +35,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageView.Rerun" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
 </keymap>
